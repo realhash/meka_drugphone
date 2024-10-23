@@ -27,7 +27,7 @@ Meka Drugphone is a free drugphone made by the team Meka. This is 100% open sour
 ## Installation
 
 1. Download the latest stabel release of our ressource.
-2. Import the SQL.
+2. Put it into your ressource folder
 3. Setup the config to your liking.
 4. That it!
 
